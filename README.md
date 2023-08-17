@@ -1,6 +1,6 @@
 # Dog-Breed-Prediction-with-GUI
 Using Keras and Tensorflow to build, train, and test a convolutional neural network capable of identifying the breed of a dog in a supplied image This is a supervised learning problem,specifically a multiclass classification problem.
-<h>steps to solve the problem</h><br>
+**Steps to solve the problem**<br>
 1)loading the data from kaggle<br>
 2)load labels csv for labels that contain image ID and breed.<br>
 3)checking the breed count<br>
